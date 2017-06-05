@@ -1,4 +1,8 @@
-
+<br>
+<br>
+<a href="https://ibb.co/d2SZca"><img src="https://preview.ibb.co/eSL9Av/Cloudo_Logo.png" alt="Cloudo_Logo" border="0" height="40%" width="40%"></a>
+<br>
+<br>
 
 # Cloudo is closing down
 
