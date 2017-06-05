@@ -41,3 +41,6 @@ Unfortunately you won't be able to use Cloudo after July 1st as all servers will
 
 ### Help, I still have questions.
 Feel free to reach out to us with any questions at <a href="mailto:help@cloudo.co">help@cloudo.co</a>
+
+<br>
+<br>
