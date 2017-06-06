@@ -35,8 +35,8 @@ We are terminating all active subscripitons today and you will not be charged in
 
 ### What should I use instead of Cloudo?
 There are a few alternatives we can recommend: 
-- Diffeo: https://www.diffeo.com
-- Findo: https://www.findo.com
+- Diffeo: <a href="https://www.diffeo.com">https://www.diffeo.com</a>
+- Findo: <a href="https://www.findo.com">https://www.findo.com</a>
 
 ### Can I still use Cloudo after July 1st?
 Unfortunately you won't be able to use Cloudo after July 1st as all servers will be turned off and the service won't be available anymore.
