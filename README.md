@@ -13,6 +13,8 @@ Along the way we created a search app for Mac, Windows and iOS that simplified h
 
 Your feedback shaped Cloudo and helped it grow into a product many people came to love. Thank you for helping us achieve this.
 
+We are thankful for all those that believed in us and supported us - our families and friends as well as our investors The Spot Booster and Pioneers Ventures.
+
 Unfortunately, our story ends here. Despite the many challenges in the world of cloud apps, we failed to create a sustainable platform and business. For this we are deeply sorry. We considered every option before making the difficult decision to end the product that brought us together, but were unable to find a feasible solution.
 
 Sincerely,
